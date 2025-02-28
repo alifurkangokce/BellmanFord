@@ -1,0 +1,14 @@
+/Users/alifurkangokce/RiderProjects/BellmanFord/BellmanFord/bin/Debug/net9.0/BellmanFord
+/Users/alifurkangokce/RiderProjects/BellmanFord/BellmanFord/bin/Debug/net9.0/BellmanFord.deps.json
+/Users/alifurkangokce/RiderProjects/BellmanFord/BellmanFord/bin/Debug/net9.0/BellmanFord.runtimeconfig.json
+/Users/alifurkangokce/RiderProjects/BellmanFord/BellmanFord/bin/Debug/net9.0/BellmanFord.dll
+/Users/alifurkangokce/RiderProjects/BellmanFord/BellmanFord/bin/Debug/net9.0/BellmanFord.pdb
+/Users/alifurkangokce/RiderProjects/BellmanFord/BellmanFord/obj/Debug/net9.0/BellmanFord.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alifurkangokce/RiderProjects/BellmanFord/BellmanFord/obj/Debug/net9.0/BellmanFord.AssemblyInfoInputs.cache
+/Users/alifurkangokce/RiderProjects/BellmanFord/BellmanFord/obj/Debug/net9.0/BellmanFord.AssemblyInfo.cs
+/Users/alifurkangokce/RiderProjects/BellmanFord/BellmanFord/obj/Debug/net9.0/BellmanFord.csproj.CoreCompileInputs.cache
+/Users/alifurkangokce/RiderProjects/BellmanFord/BellmanFord/obj/Debug/net9.0/BellmanFord.dll
+/Users/alifurkangokce/RiderProjects/BellmanFord/BellmanFord/obj/Debug/net9.0/refint/BellmanFord.dll
+/Users/alifurkangokce/RiderProjects/BellmanFord/BellmanFord/obj/Debug/net9.0/BellmanFord.pdb
+/Users/alifurkangokce/RiderProjects/BellmanFord/BellmanFord/obj/Debug/net9.0/BellmanFord.genruntimeconfig.cache
+/Users/alifurkangokce/RiderProjects/BellmanFord/BellmanFord/obj/Debug/net9.0/ref/BellmanFord.dll
